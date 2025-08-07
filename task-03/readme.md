@@ -1,5 +1,4 @@
-# College Student Portal – SQL Project
-
+# College Student Portal 
 This project demonstrates the use of basic SQL operations such as INSERT, SELECT, WHERE, ORDER BY, LIKE, BETWEEN, AND, and OR in the context of a college student portal
 
 ## 🗃️ Table Structure
@@ -63,4 +62,5 @@ SELECT * FROM Faculty ORDER BY name DESC;
 
 - `task_03.sql` – SQL file to create and populate the database
 - `Er_diagram.png` – ER Diagram showing table relationships
+
 
