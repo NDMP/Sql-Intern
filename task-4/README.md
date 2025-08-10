@@ -1,27 +1,29 @@
-College Student Portal 
 
-This project demonstrates how to analyze relational database data using aggregate functions, GROUP BY, and HAVING clauses in SQL.
+
+# **College Student Portal 
+
+This project demonstrates how to analyze relational database data using **aggregate functions**, **GROUP BY**, and **HAVING** clauses in SQL.
 The dataset models a college’s academic environment, including departments, students, courses, faculty, and marks records.
 
-Objectives
-Apply aggregate functions on academic numeric data (e.g., marks, counts).
+---
 
-Use GROUP BY to categorize records by department, course, or student.
+## **Objectives**
 
-Filter grouped results using HAVING for conditional aggregations.
+* Apply **aggregate functions** on academic numeric data (e.g., marks, counts).
+* Use **GROUP BY** to categorize records by department, course, or student.
+* Filter grouped results using **HAVING** for conditional aggregations.
+* Gain the ability to **summarize and analyze** real-world educational datasets.
 
-Gain the ability to summarize and analyze real-world educational datasets.
+---
 
-Sample Data
-Tables involved:
+## **Sample Data**
 
-Department (department_id, department_name)
+**Tables involved:**
 
-Student (student_id, name, email, department_id)
+1. **Department** (`department_id`, `department_name`)
+2. **Student** (`student_id`, `name`, `email`, `department_id`)
+3. **Course** (`course_id`, `course_name`, `department_id`)
+4. **Faculty** (`faculty_id`, `name`, `course_id`)
+5. **Marks** (`mark_id`, `student_id`, `course_id`, `marks`, `grade`)
 
-Course (course_id, course_name, department_id)
-
-Faculty (faculty_id, name, course_id)
-
-Marks (mark_id, student_id, course_id, marks, grade)
-
+Do you want me to now **add your 7 Task 4 queries** under a **"Sample Queries"** section so it’s fully aligned with your car sales example but customized for your college project? That will make it complete for submission.
