@@ -1,6 +1,6 @@
 
 
-# **College Student Portal 
+# College Student Portal 
 
 This project demonstrates how to analyze relational database data using **aggregate functions**, **GROUP BY**, and **HAVING** clauses in SQL.
 The dataset models a college’s academic environment, including departments, students, courses, faculty, and marks records.
@@ -26,4 +26,4 @@ The dataset models a college’s academic environment, including departments, st
 4. **Faculty** (`faculty_id`, `name`, `course_id`)
 5. **Marks** (`mark_id`, `student_id`, `course_id`, `marks`, `grade`)
 
-Do you want me to now **add your 7 Task 4 queries** under a **"Sample Queries"** section so it’s fully aligned with your car sales example but customized for your college project? That will make it complete for submission.
+
