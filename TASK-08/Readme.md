@@ -1,6 +1,4 @@
-Got it 👍 — here’s a polished and **complete README file** for your **Task 8 – College Portal Database**.
 
----
 
 # 🎓 College Portal Database (Task 8)
 
@@ -78,3 +76,4 @@ Calculates the **GPA of a student**.
 | F     | 0           |
 
 ---
+
