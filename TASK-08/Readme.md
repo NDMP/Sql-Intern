@@ -1,6 +1,6 @@
 
 
-# 🎓 College Portal Database (Task 8)
+# 🎓 College Portal Database 
 
 This project is a **MySQL-based College Portal System** that manages **students, departments, courses, faculty, and marks**.
 It demonstrates the use of **functions** and **stored procedures** to automate tasks like grade calculation, GPA computation, and managing student marks.
@@ -76,4 +76,5 @@ Calculates the **GPA of a student**.
 | F     | 0           |
 
 ---
+
 
